@@ -1,4 +1,4 @@
-package repo;
+package model;
 
 import model.Student;
 
@@ -11,6 +11,11 @@ import model.Student;
             this.Kurs = kurs;
         }
 
+        public String saySome(String say){
+            System.out.println(say);
+            return say;
+        }
+
         public String getKurs() {
             return Kurs;
         }
@@ -19,5 +24,5 @@ import model.Student;
             this.Kurs = kurs;
         }
 
+        }
 
-    }

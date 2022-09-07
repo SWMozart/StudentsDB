@@ -1,6 +1,6 @@
 package model;
 
-public class Students {
+public abstract class Student {
 
     private String id;
     private String name;
@@ -10,6 +10,7 @@ public class Students {
         this.name = name;
     }
 
+    public abstract String saySome(String say);
 
     public String getId() {
         return id;
@@ -29,10 +30,7 @@ public class Students {
 
     @Override
     public String toString() {
-        return "Student{" +
-                "id='" + id + '\'' +
-                ", name='" + name + '\'' +
-                '}';
+        return "ID:" + id + "\n" + "Name: " + name ;
     }
 
     @Override
