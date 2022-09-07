@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4921eac-1796-44b2-9300-aad2b354777b" name="Changes" comment="">
+    <list default="true" id="a4921eac-1796-44b2-9300-aad2b354777b" name="Changes" comment="Add HashApp and Remove">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repo/StudentDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repo/StudentDB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +77,14 @@
       <workItem from="1662466819405" duration="7000" />
       <workItem from="1662543505208" duration="3196000" />
     </task>
+    <task id="LOCAL-00001" summary="Add HashApp and Remove">
+      <created>1662555520508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662555520508</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add HashApp and Remove" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add HashApp and Remove" />
   </component>
 </project>

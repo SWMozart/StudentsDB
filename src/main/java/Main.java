@@ -10,11 +10,13 @@ public class Main {
         CSStudent student1 = new CSStudent(123, "Andy" , "Java");
         CSStudent student2 = new CSStudent(443, "Sandy" , "C++");
         CSStudent student3 = new CSStudent(987, "Randy" , "Java");
+        CSStudent student4 = new CSStudent(545, "Mandy" , "C#");
 
 
         studentArchiv.add(student1);
         studentArchiv.add(student2);
         studentArchiv.add(student3);
+        studentArchiv.add(student4);
 
         studentArchiv.remove(student1.getId());
         studentArchiv.remove(student2.getId());
