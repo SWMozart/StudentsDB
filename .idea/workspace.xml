@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4921eac-1796-44b2-9300-aad2b354777b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/CSStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/CSStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/repo/StudentDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repo/StudentDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/model/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/model/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/repo/StudentDBTEST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/repo/StudentDBTEST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +26,13 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2EO6hgYc3a1oMj4UgtC6JkLSZVn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
